@@ -1,0 +1,7 @@
+D:\23.11.5722 Junior\Semester 2\01\Praktek Kalkulator\bin\Debug\Praktek Kalkulator.exe.config
+D:\23.11.5722 Junior\Semester 2\01\Praktek Kalkulator\bin\Debug\Praktek Kalkulator.exe
+D:\23.11.5722 Junior\Semester 2\01\Praktek Kalkulator\bin\Debug\Praktek Kalkulator.pdb
+D:\23.11.5722 Junior\Semester 2\01\Praktek Kalkulator\obj\Debug\Praktek Kalkulator.csproj.AssemblyReference.cache
+D:\23.11.5722 Junior\Semester 2\01\Praktek Kalkulator\obj\Debug\Praktek Kalkulator.csproj.CoreCompileInputs.cache
+D:\23.11.5722 Junior\Semester 2\01\Praktek Kalkulator\obj\Debug\Praktek Kalkulator.exe
+D:\23.11.5722 Junior\Semester 2\01\Praktek Kalkulator\obj\Debug\Praktek Kalkulator.pdb
